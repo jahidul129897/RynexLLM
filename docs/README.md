@@ -2,11 +2,6 @@
 
 `rynexllm` is a collection of Rust crates designed to help you create advanced LLM applications such as chatbots, agents, and more. As a comprehensive LLM-Ops platform we have strong support for both cloud and locally-hosted LLMs. We also provide robust support for prompt templates and chaining together prompts in multi-step chains, enabling complex tasks that LLMs can't handle in a single step. We also provide vector store integrations making it easy to give your model long-term memory and subject matter knowledge. This empowers you to build sophisticated applications.
 
-[![Discord](https://dcbadge.vercel.app/api/server/kewN9Gtjt2?style=for-the-badge)](https://discord.gg/kewN9Gtjt2)
-[![Crates.io](https://img.shields.io/crates/v/rynexllm?style=for-the-badge)](https://crates.io/crates/rynexllm)
-![License](https://img.shields.io/github/license/sobelio/rynexllm?style=for-the-badge)
-[![Docs: Tutorial](https://img.shields.io/badge/docs-tutorial-success?style=for-the-badge&logo=appveyor)](https://sobelio.github.io/rynexllm/docs/getting-started-tutorial/index)
-
 ## Examples 💡
 
 To help you get started, here is an example demonstrating how to use `rynexllm`. You can find more examples in the [examples folder](/crates/rynexllm-openai/examples) in the repository.
