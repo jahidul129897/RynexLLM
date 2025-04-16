@@ -49,7 +49,7 @@ export OPENAI_API_KEY="sk-YOUR_OPEN_AI_KEY_HERE"
 ```
 
 Then, refer to the [documentation](https://docs.rs/rynexllm) and [examples](/crates/rynexllm-openai/examples) to learn how to create prompt templates, chains, and more.
-
+.
 ## Contributing 🤝
 
 **We warmly welcome contributions from everyone!** If you're interested in helping improve `rynexllm`, please check out our [`CONTRIBUTING.md`](/docs/CONTRIBUTING.md) file for guidelines and best practices.
